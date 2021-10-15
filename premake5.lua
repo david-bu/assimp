@@ -10,7 +10,7 @@ project "assimp"
 		"code/**.cpp",
     		"code/**.h",
 		"code/**.inl",
-		"include/**.h,
+		"include/**.h",
 		"include/**.hpp",
 		"include/**.inl"
 	}
