@@ -8,7 +8,7 @@ project "assimp"
 	files
 	{
 		"code/**.cpp",
-    "code/**.h",
+    		"code/**.h",
 		"code/**.inl",
 		"include/**.h,
 		"include/**.hpp",
